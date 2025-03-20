@@ -391,7 +391,6 @@ footer a:hover {
     grid-template-columns: 1fr;
   }
 }
-/* Add this CSS to your styles.css file */
 
 .gradient-text {
     background: linear-gradient(90deg, #ff7e5f, #feb47b);
